@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://firmware.meizu.com/Firmware/Flyme/16th/8.1.5.4/cn/20220512222402/d5fbde5b/update.zip
-  ROM_NAME: flyme
+  ROM_NAME: flyne
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
